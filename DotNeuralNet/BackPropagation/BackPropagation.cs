@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DotNeuralNet
+﻿namespace DotNeuralNet.BackPropagation
 {
   internal class BackPropagation
   {

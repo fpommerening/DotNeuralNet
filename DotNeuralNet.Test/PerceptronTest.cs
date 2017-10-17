@@ -1,5 +1,4 @@
-﻿using System.Runtime.InteropServices;
-using DotNeuralNet.Perceptrons;
+﻿using DotNeuralNet.Perceptrons;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DotNeuralNet.Test

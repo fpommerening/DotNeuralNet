@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DotNeuralNet
+namespace DotNeuralNet.BackPropagation
 {
   public class BackPropagationTrainer
   {

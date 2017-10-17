@@ -1,4 +1,4 @@
-﻿namespace DotNeuralNet
+﻿namespace DotNeuralNet.BackPropagation
 {
   public class BackPropagationTrainingRow
   {

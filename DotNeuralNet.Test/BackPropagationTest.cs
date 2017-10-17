@@ -1,6 +1,5 @@
-﻿using System.Linq;
+﻿using DotNeuralNet.BackPropagation;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Collections.Generic;
 
 namespace DotNeuralNet.Test
 {
